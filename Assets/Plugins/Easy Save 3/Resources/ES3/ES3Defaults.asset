@@ -33,8 +33,8 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - FMODUnityResonance
     - FMODUnity
-    - PsdPlugin
     - FMODUnityEditor
+    - PsdPlugin
     - FMODUnityResonanceEditor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
