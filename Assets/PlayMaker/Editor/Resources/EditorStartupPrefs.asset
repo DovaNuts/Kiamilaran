@@ -15,6 +15,6 @@ MonoBehaviour:
   welcomeScreenVersion: '1.9.1 '
   playmakerVersion: 
   showWelcomeScreen: 1
-  showUpgradeGuide: 0
-  lastAutoUpdateSignature: 2021.1.0b5__C:/Users/Axel/Documents/Unity Projects/Kiamilaran/Assets__0.0.0.0
+  showUpgradeGuide: 1
+  lastAutoUpdateSignature: 2019.4.19f1__C:/Users/Axel/Documents/Unity Projects/Kiamilaran/Assets__0.0.0.0
   useLegacyNetworking: 0
