@@ -33,6 +33,7 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - FMODUnityResonance
     - FMODUnity
+    - MyBox
     - FMODUnityEditor
     - PsdPlugin
     - FMODUnityResonanceEditor
